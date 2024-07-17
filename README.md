@@ -1,2 +1,2 @@
 # edvai_data_engineer
-Ejercicios prácticos del bootcam de data engineer
+Ejercicios prácticos del bootcamp de data engineer
